@@ -1,6 +1,10 @@
 # Festive Fusion
 
-A 2D game built with Pygame featuring Halloween, Christmas, and Thanksgiving themed levels, combat mechanics, and score tracking.
+### A 2D game built with Pygame featuring Halloween, Christmas, and Thanksgiving themed levels, combat mechanics, and score tracking.
+
+[![Download on Itch.io](https://img.shields.io/badge/Download%20on-Itch.io-red?style=for-the-badge&logo=itch-io)](https://lasterminator.itch.io/festive-fusion)
+
+![Game Screen](./assets/images/game_screen.png)
 
 ## Features
 
